@@ -1,0 +1,8 @@
+# big file
+*.whl
+
+# dependencies
+/env
+/test
+/tes 
+/venv
